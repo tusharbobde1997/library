@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.1",
+  "appInfo": {
+    "name": "LIBRARY",
+    "description": "sdjkfgkjdsfjgkdjfgskdfjg\ns;dfjksd;lkjgs;dfklkgjsd;lkfgjsd;lfkgj\nskjjfsldkfjghs;dkj;fjghsdkjghskdjfghlskdjfghlksjdf\ndsffbglkjlsdjbgfkjsdjfgkskdjghlkskdhgsdkfjghsdkfghsdfkgjh",
+    "version": "hgz32l1d",
+    "id": "ckymulxkn106821501s6lkrparze",
+    "url": "https://app.amplication.com/ckymulxkn106821501s6lkrparze",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "postgres",
+      "dbPassword": "1234",
+      "dbPort": 54323,
+      "dbUser": "postgres",
+      "appId": "ckymulxkn106821501s6lkrparze",
+      "authProvider": "Jwt"
+    }
+  }
+}
